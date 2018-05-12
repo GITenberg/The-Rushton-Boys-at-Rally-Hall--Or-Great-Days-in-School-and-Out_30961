@@ -1,0 +1,25 @@
+_repo: The-Rushton-Boys-at-Rally-Hall--Or-Great-Days-in-School-and-Out_30961
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davenport, Spencer
+    gutenberg_agent_id: '34843'
+    url: http://www.gutenberg.org/2009/agents/34843
+description: ''
+gutenberg_issued: '2010-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Sports stories'
+title: The Rushton Boys at Rally Hall; Or, Great Days in School and Out
+url: http://www.gutenberg.org/ebooks/30961
